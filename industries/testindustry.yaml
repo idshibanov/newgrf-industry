@@ -1,0 +1,17 @@
+available: true
+callbacks: ''
+cargoAcceptance: []
+cargoProduction:
+- NEWC
+colour: 1
+fundCostMultiplier: 100
+id: 0
+layout:
+- - - -1
+name: TestIndustry
+placement: anywhere
+probabilityInGame: 3
+probabilityMapGen: 6
+prospectChance: 75
+tiles: []
+type: primary
